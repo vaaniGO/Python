@@ -1,1 +1,1 @@
-This is a generalised repo for various projects using python. Some work I'm doing right now includes data-driven research on correlation between natural disasters in the USA and agro-commodity prices. I've also done some work on fastapi.
+This is a generalised repo for various projects using python. Some work I'm doing right now includes data-driven research on correlation between natural disasters in the USA and agro-commodity prices. I've also done some work on fastapi, sqlmodel, and some data analysis work on a loan approval dataset from kaggle.
