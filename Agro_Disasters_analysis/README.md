@@ -3,7 +3,7 @@ Data for disasters was obtained from: OpenFEMA Data Sets. Data for stock prices 
 Below is the resulting grapghs from the DA: 
 
 Let's look at the result from one year: Here, we can somewhat observe a pattern in the number of calamities and the stock close price for AGRO. This was done for every year from 1990-2024.
-![cb26538c-61b6-466c-985a-3437bc64d272](https://github.com/user-attachments/assets/c257bd06-78f4-47d7-8737-9b0f8d5cdb2a)
+![8845369d-6340-4958-b3b2-856f1147731f](https://github.com/user-attachments/assets/3bcdc82f-b146-4346-b903-66f7d0650a69)
 
 A correlation graph for the correlation between close price and total number of calamities for a 10 year period (2010-2019): 
 ![a948e264-21db-4286-8676-a698e3f0ad9d](https://github.com/user-attachments/assets/42699755-d013-4843-b185-dc3a6084d210)
